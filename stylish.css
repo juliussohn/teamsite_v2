@@ -1,0 +1,357 @@
+body.iw-ccpro-ui-background-top {
+margin:0;
+padding:0;
+}
+
+body.iw-ccpro-ui-background-top .iw-base-heading {
+background:#22272c;
+border:none;
+height:55px;
+border-bottom:3px solid #43b3c7;
+top:0;
+left:0;
+display:block;
+width:100%;
+}
+
+body.iw-ccpro-ui-background-top .iw-base-heading table {
+height:55px;
+}
+
+body.iw-ccpro-ui-background-top .iw-base-heading table td {
+line-height:55px;
+}
+
+body.iw-ccpro-ui-background-top .iw-base-heading tr td:nth-child(2) {
+position:fixed;
+bottom:0;
+right:0;
+padding:15px;
+}
+
+#menus {
+border-radius:3px;
+}
+
+#menus tr>td a {
+color:#fff;
+display:block;
+font-size:14px;
+font-weight:400;
+padding:0 30px;
+}
+
+#widget_heading_33039695 td a {
+color:#fff;
+display:block;
+margin-right:15px;
+}
+
+.iw-base-heading-link-bold:hover {
+text-decoration:none!important;
+background-color:#43b3c7!important;
+}
+
+body.iw-ccpro-ui-background-top >div:first-of-type {
+position:fixed;
+top:0;
+padding-top:0!important;
+right:0;
+display:block;
+z-index:110;
+width:50%;
+background:none!important;
+}
+
+body.iw-ccpro-ui-background-top>div:first-of-type a,body.iw-ccpro-ui-background-top>div:first-of-type span,body.iw-ccpro-ui-background-top>div:first-of-type a {
+color:#fff!important;
+display:block;
+margin-right:10px;
+font-size:14px;
+line-height:55px;
+height:55px;
+padding:0 5px;
+}
+
+body.iw-ccpro-ui-background-top>div:first-of-type a:hover {
+font-size:14px;
+}
+
+.iw-base-popup {
+border:none;
+background:#43b3c7;
+position:fixed!important;
+padding:0;
+}
+
+.iw-base-popup img[src=/iw-cc/base/images/div_menu.gif] {
+height:0;
+width:100%;
+display:block;
+border-bottom:1px solid #fff!important;
+}
+
+.iw-base-popup div {
+background:none;
+height:auto!important;
+}
+
+.iw-base-heading+div+table {
+height:50px;
+}
+
+.iw-base-heading+div+table tr td:first-child {
+padding-left:25px;
+}
+
+.iw-base-popup div a {
+color:#fff;
+display:block;
+padding:7px 10px;
+}
+
+.iw-base-popup div a.iw-base-link-disabled {
+color:#ddd;
+}
+
+.iw-base-popup div:hover {
+border:none;
+height:auto!important;
+}
+
+.iw-base-popup div a:not(.iw-base-link-disabled):hover {
+text-decoration:none;
+color:#fff;
+background-color:#ddd;
+}
+
+.iw-base-popup-row {
+padding:0;
+}
+
+.iw-base-popup-row-highlighted {
+border:0!important;
+}
+
+#fs_location_external {
+height:39px;
+font-size:14px;
+border:1px solid #c3c3c3;
+border-radius:3px;
+background:#fff;
+padding:0 15px;
+}
+
+#fs_directory_tree_heading_link,#fs_directory_tree_heading_area_name {
+font-size:13px;
+color:#6d6d6d;
+}
+
+#fs_location_table img[src=/iw-cc/base/images/div_optionbar.gif] {
+height:40px;
+width:1px;
+margin:0 5px;
+}
+
+#fs_directory_tree_heading_area_name {
+font-weight:700;
+}
+
+.iw-base-tree-node {
+background:none;
+}
+
+.iw-base-tree-node-hover {
+background:#43b3c7!important;
+}
+
+.iw-base-tree-node-selected {
+background:#43b3c7;
+color:#fff!important;
+}
+
+.iw-base-tree-node-hover:hover img:last-of-type,.iw-base-tree-node-selected img:last-of-type {
+background-color:#22272c;
+border:4px solid #22272c;
+border-radius:4px;
+margin:0 4px;
+}
+
+.iw-base-tree-node,.iw-base-tree-node-hover,.iw-base-tree-node-selected {
+height:40px;
+line-height:40px;
+color:#fff;
+}
+
+body.iw-ccpro-ui-background-tree {
+border:none;
+background-color:#333;
+}
+
+body.iw-ccpro-ui-background .iw-base-heading {
+background:#22272c;
+border:none;
+}
+
+body.iw-ccpro-ui-background .iw-base-heading td,body.iw-ccpro-ui-background .iw-base-heading a {
+font-size:14px!important;
+color:#fff;
+}
+
+body.iw-ccpro-ui-background .iw-base-heading .iw-base-heading-title {
+font-size:18px;
+font-weight:400;
+color:#fff;
+padding:10px;
+}
+
+.iw-base-listview-row-odd td,.iw-base-listview-row-even td {
+height:48px;
+padding:0 5px;
+}
+
+.iw-base-listview-row-even {
+background-color:#eee;
+}
+
+#theadtable_filesystem_list_div,#theadtable_filesystem_list_div th {
+background:none;
+background-color:#556370;
+height:30px;
+padding:0;
+}
+
+#theadtable_filesystem_list_div th a {
+font-size:14px!important;
+line-height:30px;
+margin-left:5px;
+color:#fff;
+}
+
+th.iw-base-listview-header-nowrap {
+border-left:1px solid #22272c;
+border-right:none;
+}
+
+img[src=/iw-cc/teamsite/images/file_images/img_directory.gif] {
+content:url(http://data.leicht-luftig.de/teamsite/folder.png);
+margin:0 8px;
+}
+
+img[src=/iw-cc/teamsite/images/file_images/img_file_modified.gif] {
+content:url(http://data.leicht-luftig.de/teamsite/page-edit.png);
+margin:0 8px;
+}
+
+img[src=/iw-cc/teamsite/images/command_icons/icn_create_directory.gif] {
+content:url(http://data.leicht-luftig.de/teamsite/folder-new.png);
+margin:0 8px;
+}
+
+img[src=/iw-cc/teamsite/images/command_icons/icn_properties.gif] {
+content:url(http://data.leicht-luftig.de/teamsite/properties.png);
+margin:0 8px;
+}
+
+img[src=https://teamsite.bayerbbs-hosting.com/iw-cc/teamsite/images/file_images/img_branch.gif],img[src=/iw-cc/teamsite/images/file_images/img_branch.gif],img[src=/iw-cc/teamsite/images/file_images/img_config_branch.gif] {
+content:url(http://data.leicht-luftig.de/teamsite/branch.png);
+margin:0 8px;
+}
+
+img[src=/iw-cc/ccpro/images/filesys/icn_favorite.gif] {
+content:url(http://data.leicht-luftig.de/teamsite/favorites.png);
+margin:0 8px;
+}
+
+img[src=https://teamsite.bayerbbs-hosting.com/iw-cc/teamsite/images/file_images/img_store.gif] {
+content:url(http://data.leicht-luftig.de/teamsite/disk.png);
+margin:0 8px;
+}
+
+img[src=/iw-cc/teamsite/images/file_images/img_workarea.gif],img[src=https://teamsite.bayerbbs-hosting.com/iw-cc/teamsite/images/file_images/img_workarea.gif],img[src=/iw-cc/teamsite/images/file_images/img_edition.gif] {
+content:url(http://data.leicht-luftig.de/teamsite/workarea.png);
+margin:0 8px;
+}
+
+img[src=/iw-cc/teamsite/images/file_images/img_staging.gif] {
+content:url(http://data.leicht-luftig.de/teamsite/staging.png);
+margin:0 8px;
+}
+
+img[src=https://teamsite.bayerbbs-hosting.com/iw-cc/teamsite/images/file_images/img_config_branch.gif] {
+content:url(http://data.leicht-luftig.de/teamsite/gear.png);
+margin:0 8px;
+}
+
+img[src=https://teamsite.bayerbbs-hosting.com/iw-cc/teamsite/images/file_images/img_edition.gif] {
+content:url(http://data.leicht-luftig.de/teamsite/edition.png);
+margin:0 8px;
+}
+
+img[src=https://teamsite.bayerbbs-hosting.com/iw-cc/teamsite/images/file_images/img_server.gif] {
+content:url(http://data.leicht-luftig.de/teamsite/server.png);
+margin:0 8px;
+}
+
+img[src=/iw-cc/teamsite/images/command_icons/icn_up.gif] {
+content:url(http://data.leicht-luftig.de/teamsite/back.png);
+margin:0 8px;
+}
+
+img[src=https://teamsite.bayerbbs-hosting.com/iw-cc/base/widget/tree/images/icn_tree_expand.gif] {
+content:url(http://data.leicht-luftig.de/teamsite/expand.png);
+margin:0 8px;
+}
+
+img[src=https://teamsite.bayerbbs-hosting.com/iw-cc/base/widget/tree/images/icn_tree_collapse.gif] {
+content:url(http://data.leicht-luftig.de/teamsite/collapse.png);
+margin:0 8px;
+}
+
+.gwt-ProgressBar-shell {
+border:none;
+background:#eee;
+height:30px;
+width:70%;
+}
+
+.gwt-ProgressBar-bar {
+background-color:#30ce00!important;
+}
+
+.gwt-ProgressBar-text {
+font-size:20px!important;
+}
+
+.coolBar {
+border:none;
+background-color:#333;
+top:0;
+left:0;
+table-spacing:0;
+}
+
+#masterdiv div td {
+color:#fff!important;
+}
+
+form[name=form1] input {
+font-size:16px;
+padding:10px;
+}
+
+form[name=form1] input[type=submit] {
+background-color:#333!important;
+border:none;
+color:#fff;
+padding:10px 20px;
+}
+
+*,.coolBar div,.coolBar td {
+border:none;
+}
+
+.iw-base-heading+div,#fs_just_before_content,#tabset_t0,#widget_heading_33039695 .iw-base-heading-separator,#tabset_t0,#widget_heading_33039695 a img,#menus tr>td:nth-child(even),body.iw-ccpro-ui-background-top>div:first-of-type img,#widget_heading_33039695,body.iw-ccpro-ui-background-top>div:first-of-type div:first-of-type,img[src=bbs_hosting_logo.jpg] {
+display:none;
+}
+
